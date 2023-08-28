@@ -1,0 +1,24 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "checked": true,
+        "item": "Practice Code"
+      },
+      {
+        "id": 2,
+        "checked": false,
+        "item": "Learn to Fetch data from API"
+      },
+      {
+        "id": 3,
+        "checked": false,
+        "item": "Read about AI"
+      },
+      {
+        "id": 4,
+        "checked": false,
+        "item": "ChatGPT"
+      }
+    ]
+  }
